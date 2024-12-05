@@ -1,0 +1,1 @@
+req.originalUrl -> This will take the original URL requested
